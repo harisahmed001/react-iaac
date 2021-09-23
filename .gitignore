@@ -1,0 +1,8 @@
+.terraform
+terraform.tfvars
+dummy.pem
+terraform.tfstate
+terraform.tfstate.backup
+.terraform.tfstate.lock.info
+
+
