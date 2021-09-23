@@ -1,11 +1,7 @@
 variable "IDENTIFIER" {
   default = "react-app"
 }
-variable "instance_count" {
-  default = "1"
-}
 variable "VPC_ID" {
-  #default = "vpc-5bd7bc33"
   default = "vpc-c64808a2"
 }
 variable "AMI_ID" {
